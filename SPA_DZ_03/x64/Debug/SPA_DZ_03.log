@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Ryzen 5 1600\Desktop\All stuff\FAKS!\SEMSETAR 2\STRUKTURE PODATAKA I ALGORITMI\domace zadace\SPA_DZ_03\SPA_DZ_03\SPA_DZ_03\Area.h(27,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ryzen 5 1600\Desktop\All stuff\FAKS!\SEMSETAR 2\STRUKTURE PODATAKA I ALGORITMI\domace zadace\SPA_DZ_03\SPA_DZ_03\SPA_DZ_03\Area.h(28,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ryzen 5 1600\Desktop\All stuff\FAKS!\SEMSETAR 2\STRUKTURE PODATAKA I ALGORITMI\domace zadace\SPA_DZ_03\SPA_DZ_03\SPA_DZ_03\Area.h(65,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SPA_DZ_03.vcxproj -> C:\Users\Ryzen 5 1600\Desktop\All stuff\FAKS!\SEMSETAR 2\STRUKTURE PODATAKA I ALGORITMI\domace zadace\SPA_DZ_03\SPA_DZ_03\x64\Debug\SPA_DZ_03.exe
